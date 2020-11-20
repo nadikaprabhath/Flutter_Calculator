@@ -2,7 +2,6 @@
 
 ![alt text](https://github.com/SL-Basta/Flutter_Calculator/blob/master/Calculator.png)
 
-
 A new Flutter project.
 
 ## Getting Started
